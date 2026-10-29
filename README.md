@@ -1,25 +1,31 @@
 # 👨🏻‍💻 Nicolas Egea dos Santos (egeasant)
 
-**`Analista de Sistemas | Profissional de TI`**
+**`Analista de Sistemas | Infraestrutura & Cibersegurança`**
 
-Me chamo Nicolas Egea dos Santos e moro em Taboão da Serra, SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFECAF. Sou apaixonado por tecnologia, cibersegurança e infraestrutura, atuando como analista na InfoPack Sistemas e prestando serviços de forma independente através da Hydra Security. Compartilho meus projetos, configurações de laboratório e ferramentas como o Hydra-Wordlister diretamente por aqui.
+Me chamo Nicolas, sou estudante de **Análise e Desenvolvimento de Sistemas** na UniFECAF e atuo como Analista de Sistemas/TI na **InfoPack Sistemas**, além de prestar serviços de infraestrutura e suporte especializado pela **Hydra Security**. Possuo foco em administração de redes, segurança defensiva e ofensiva, análise de pacotes e automação.
 
 <p align="left">
-    <a href="https://github.com/egeasant?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/egeasant?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/egeasant?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/egeasant?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@dominio.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/egeasant?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/egeasant?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" alt="Estrelas" />
+  </a>
+  <a href="https://github.com/egeasant?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/egeasant?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores" />
+  </a>
 </p>
+
+---
+
+### 📌 Sobre mim & Foco Atual
+
+- 🔭 **Atuação:** Analista de TI na InfoPack Sistemas e consultoria em infra/redes pela Hydra Security.
+- 🧠 **Estudos Atuais:** SIEM com Microsoft Sentinel, consultas em KQL, hardening e protocolos VoIP/PABX.
+- ⚡ **Competências Práticas:** Reconhecimento de redes, auditoria wireless, análise de tráfego (Wireshark) e automação em Python e Bash.
 
 ---
 
@@ -81,40 +87,26 @@ Me chamo Nicolas Egea dos Santos e moro em Taboão da Serra, SP. Atualmente, est
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
+<img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+    alt="VS Code" 
+    title="VS Code"
+    width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="190" 
     src="https://github-readme-stats.vercel.app/api?username=egeasant&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=egeasant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
-<!--
-**egeasant/Egeasant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
